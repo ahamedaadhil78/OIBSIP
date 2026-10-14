@@ -86,7 +86,7 @@ Recall is particularly important because missed spam messages may be incorrectly
 
 📁 Project Structure
 
-DataScience-Task4-EmailSpamDetection/
+DataScience-Task 3-EmailSpamDetection/
 │
 ├── Email_Spam_Detection.ipynb
 ├── SMSSpamCollection
